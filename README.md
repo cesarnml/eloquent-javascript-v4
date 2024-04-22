@@ -8,12 +8,14 @@
   - [Notes](#notes)
     - [Introduction](#introduction)
     - [Chapter 01: Values, Types and Operators](#chapter-01-values-types-and-operators)
+    - [Chapter 02: Program Structure](#chapter-02-program-structure)
 
 ## Contents
 
 - [x] ~~_Introduction_~~ [2024-04-22]
-- [ ] Chapter 01: Values, Types and Operators
+- [x] ~~_Chapter 01: Values, Types and Operators_~~ [2024-04-22]
 - [ ] Chapter 02: Program Structure
+  - [ ] Exercises
 
 ## Notes
 
@@ -57,3 +59,11 @@
 - JavaScript uses 16-bits for strings (which causes emojis to take up two characters 🤦‍♂️)
 - Uppercase letters are always less than lowercase letters
 - _type coercion_ is the root of all evil
+
+### Chapter 02: Program Structure
+
+- Summary: Most of this chapter involves presenting rather basic and easy to grok aspects of the language syntax.
+
+> "a `do` loop always executes its body at least once, and it starts testing whether it should stop only after that first execution."
+
+> "a program is built out of statements ... statements tend to contain expressions ... you can introduce disturbances in the flow of control by using conditional (`if, else, and switch`) and looping (`while, do, and for`)"
