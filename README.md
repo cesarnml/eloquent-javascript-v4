@@ -7,11 +7,12 @@
   - [Contents](#contents)
   - [Notes](#notes)
     - [Introduction](#introduction)
+    - [Chapter 01: Values, Types and Operators](#chapter-01-values-types-and-operators)
 
 ## Contents
 
 - [x] ~~_Introduction_~~ [2024-04-22]
-- [ ] Chapter 01: Values, Types, and Operators
+- [ ] Chapter 01: Values, Types and Operators
 - [ ] Chapter 02: Program Structure
 
 ## Notes
@@ -41,3 +42,18 @@
 [Book Website](https://eloquentjavascript.net)
 
 [Chapter Exercise Code](https://eloquentjavascript.net/code)
+
+### Chapter 01: Values, Types and Operators
+
+- Five of the primitive types in JavaScript:
+  - 1. number
+    - Three special numbers: `Infinity`, `-Infinity`, `NaN`
+    - Trivia: Only `NaN` == `NaN` // false (not equal to itself)
+  - 2. string
+  - 3. boolean
+  - 4. null
+  - 5. undefined
+- JavaScript uses 64-bits to represent numbers (9e9 positive/negative numbers)
+- JavaScript uses 16-bits for strings (which causes emojis to take up two characters 🤦‍♂️)
+- Uppercase letters are always less than lowercase letters
+- _type coercion_ is the root of all evil
