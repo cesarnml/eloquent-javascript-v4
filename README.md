@@ -9,13 +9,15 @@
     - [Introduction](#introduction)
     - [Chapter 01: Values, Types and Operators](#chapter-01-values-types-and-operators)
     - [Chapter 02: Program Structure](#chapter-02-program-structure)
+    - [Chapter 03: Functions](#chapter-03-functions)
 
 ## Contents
 
 - [x] ~~_Introduction_~~ [2024-04-22]
 - [x] ~~_Chapter 01: Values, Types and Operators_~~ [2024-04-22]
-- [ ] Chapter 02: Program Structure
-  - [ ] Exercises
+- [x] ~~_Chapter 02: Program Structure_~~ [2024-04-23]
+  - [x] ~~_Exercises_~~ [2024-04-23]
+- [ ] Chapter 03: Functions
 
 ## Notes
 
@@ -67,3 +69,5 @@
 > "a `do` loop always executes its body at least once, and it starts testing whether it should stop only after that first execution."
 
 > "a program is built out of statements ... statements tend to contain expressions ... you can introduce disturbances in the flow of control by using conditional (`if, else, and switch`) and looping (`while, do, and for`)"
+
+### Chapter 03: Functions
