@@ -17,7 +17,8 @@
 - [x] ~~_Chapter 01: Values, Types and Operators_~~ [2024-04-22]
 - [x] ~~_Chapter 02: Program Structure_~~ [2024-04-23]
   - [x] ~~_Exercises_~~ [2024-04-23]
-- [ ] Chapter 03: Functions
+- [x] ~~_Chapter 03: Functions_~~ [2024-04-24]
+  - [ ] Exercises
 
 ## Notes
 
@@ -71,3 +72,23 @@
 > "a program is built out of statements ... statements tend to contain expressions ... you can introduce disturbances in the flow of control by using conditional (`if, else, and switch`) and looping (`while, do, and for`)"
 
 ### Chapter 03: Functions
+
+- Summary: This chapter touches on several fundamental concepts surrounding JavaScript `functions`:
+  - the concept of purpose (encapsulation and abstraction)
+  - the concept of hoisting, binding lexical scope and closure
+  - the 3 ways to declare a `function` in JS (`function` keyword statement, expression and arrow function declaration)
+  - it also discusses the Call Stack, recursive functions, and premature optimization
+  - pure vs side-effect based functions
+  - local vs global bindings
+
+> "Functions are a way to structure larger programs, to reduce repetition, ... to isolate [pieces of code from each other]."
+
+> "Functions have `parameters` and a `body`."
+
+> "Each `binding` has a `scope`, the part of the program in which the binding is `visible`."
+
+> "Being able to reference a specific instance of a local binding in an enclosing scope -- is called a `closure`. A function that references bindings from local scopes around it is called a `closure`."
+
+> "A good mental model is to think of a function values as containing both the code in their body and the environment in which they are `created` ... The function body sees the environment in which it was `created`, not the environment in which it is `called`.
+
+- A function that calls itself is called `recursive`
