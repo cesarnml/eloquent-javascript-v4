@@ -10,6 +10,7 @@
     - [Chapter 01: Values, Types and Operators](#chapter-01-values-types-and-operators)
     - [Chapter 02: Program Structure](#chapter-02-program-structure)
     - [Chapter 03: Functions](#chapter-03-functions)
+    - [Chapter 04: Data Structures - Objects and Arrays](#chapter-04-data-structures---objects-and-arrays)
 
 ## Contents
 
@@ -19,6 +20,15 @@
   - [x] ~~_Exercises_~~ [2024-04-23]
 - [x] ~~_Chapter 03: Functions_~~ [2024-04-24]
   - [x] ~~_Exercises_~~ [2024-04-24]
+- [ ] Chapter 04: Data Structures - Objects and Arrays
+  - [ ] Exercises
+- [ ] Chapter 05: Higher-Order Functions
+  - [ ] Exercises
+- [ ] Chapter 06: The Secret Life of Objects
+  - [ ] Exercises
+- [ ] Chapter 07: Project - A Robot
+- [ ] Chapter 08: Bugs and Errors
+  - [ ] Exercises
 
 ## Notes
 
@@ -92,3 +102,5 @@
 > "A good mental model is to think of a function values as containing both the code in their body and the environment in which they are `created` ... The function body sees the environment in which it was `created`, not the environment in which it is `called`.
 
 - A function that calls itself is called `recursive`
+
+### Chapter 04: Data Structures - Objects and Arrays
