@@ -18,7 +18,7 @@
 - [x] ~~_Chapter 02: Program Structure_~~ [2024-04-23]
   - [x] ~~_Exercises_~~ [2024-04-23]
 - [x] ~~_Chapter 03: Functions_~~ [2024-04-24]
-  - [ ] Exercises
+  - [x] ~~_Exercises_~~ [2024-04-24]
 
 ## Notes
 
