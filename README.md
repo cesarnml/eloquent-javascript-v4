@@ -11,6 +11,7 @@
     - [Chapter 02: Program Structure](#chapter-02-program-structure)
     - [Chapter 03: Functions](#chapter-03-functions)
     - [Chapter 04: Data Structures - Objects and Arrays](#chapter-04-data-structures---objects-and-arrays)
+    - [Chapter 05: Higher-Order Functions](#chapter-05-higher-order-functions)
 
 ## Contents
 
@@ -104,3 +105,5 @@
 - A function that calls itself is called `recursive`
 
 ### Chapter 04: Data Structures - Objects and Arrays
+
+### Chapter 05: Higher-Order Functions
